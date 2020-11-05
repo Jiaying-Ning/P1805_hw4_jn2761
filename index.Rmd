@@ -1,0 +1,44 @@
+---
+title: "My wbsite"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# I have a webpage!
+
+## here's a subsection
+
+And here is text
+
+## links
+
+useful link
+
+- [Google](http://www.google.com/)
+- [P8105](http://p8105.com)
+
+## Local image
+
+here is image
+
+<img src="images/The NewYorkTimes.gif" style="width:75%">
+
+
+## Link to page within the site
+[About me](about.html)
+
+## Quartly Result{.tabset}
+
+### By Product
+
+this is my first table and I can do stuff
+
+### By region
+
+This is my second tab and it does other stuff
+
+## this is a new section
+
+and this is great
